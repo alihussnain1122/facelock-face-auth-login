@@ -43,7 +43,7 @@ FaceLock is a modern and secure face recognition login system built with **React
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/facelock-face-auth-login.git
+git clone https://github.com/alihussnain1122/facelock-face-auth-login.git
 cd facelock-face-auth-login
 ```
 
